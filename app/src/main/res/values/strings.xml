@@ -13,6 +13,6 @@
     <string name="button_restart">Restart</string>
     <string name="button_close">Close</string>
     <string name="text_hall_of_fame">Hall of Fame</string>
-    <string name="text_ducks">Ducks </string>
+    <string name="text_ducks">Duck</string>
     <string name="text_player">Player Name</string>
 </resources>
