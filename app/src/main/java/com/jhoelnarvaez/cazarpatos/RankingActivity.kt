@@ -63,5 +63,5 @@ class RankingActivity : AppCompatActivity() {
         recyclerViewRanking.adapter = RankingAdapter(jugadoresSQLite)
         recyclerViewRanking.setHasFixedSize(true)
     }
-
+//
 }
