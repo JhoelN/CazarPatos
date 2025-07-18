@@ -15,4 +15,7 @@
     <string name="text_hall_of_fame">Hall of Fame</string>
     <string name="text_ducks">Duck</string>
     <string name="text_player">Player Name</string>
+    <string name="text_new_game">New Game</string>
+    <string name="text_play_online">Play Online</string>
+    <string name="text_close">Close</string>
 </resources>
